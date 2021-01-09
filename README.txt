@@ -20,7 +20,7 @@ INSTALLATION / USE
 
 -----------
 
-You can either download the appropriate executable package for your operating system, or run the python source code. If going the way of the executable, simply unpack the archive, and open the executable file within (typically "winterlab.exe" or similar).
+You can either download the appropriate executable package for your operating system, or run the python source code (see README.md in /winterlab/). If going the way of the executable, simply unpack the archive, and open the executable file within (typically "winterlab.exe" or similar).
 
 It is recommended to use the Arduino IDE to upload the winterlab firmware to your Teensy 3.6 board. Make sure to include the pdb.h file in the same project folder as your .ino file (same configuration as the winterlab_firmware folder).
 
