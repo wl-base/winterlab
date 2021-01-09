@@ -31,4 +31,4 @@ HARDWARE
 
 A functional diagram is included in the hardware folder. This illustrates which circuit topologies are used as the I/O interfaces for which WinterLab functions (oscilloscope, function generator, etc). The details of these circuits, including component values and Teensy 3.6 pin connections, can be found in the full circuit schematics (hardware/schematics/WinterLab.pdf). This should provide the framework for assembling your own device, if you wish.
 
-If you would prefer to have circuit boards printed, the PCB design files are freely available upon demain -- contact us!
+If you would prefer to have circuit boards printed, the PCB design files are freely available upon demand -- contact us!
